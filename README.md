@@ -22,6 +22,8 @@ print("El promedio numérico del arreglo es " +str(promedio))
 ```
 ## 2. Desarrollar un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño.
 ```python
+#Desarrollar un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño.
+
 n = int(input("Ingrese la cantidad de elementos que desea que tengan los arreglos ")) #se ingresa por teclado la cantidad que el usuario quiera
 
 arreglo1= [] #se crea una lista vacía
