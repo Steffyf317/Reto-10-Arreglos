@@ -1,5 +1,5 @@
 # Reto 10: Arreglos
-## 1.Desarrollar un algoritmo que calcule el promedio de un arreglo de reales.
+## 1. Desarrollar un algoritmo que calcule el promedio de un arreglo de reales.
 ```python
 #Desarrollar un algoritmo que calcule el promedio de un arreglo de reales
 
@@ -20,7 +20,7 @@ promedio:float = suma_reales /len(reales) #se calcula el promedio con la suma an
 print(reales)
 print("El promedio numérico del arreglo es " +str(promedio))
 ```
-## 2.Desarrollar un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño.
+## 2. Desarrollar un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño.
 ```python
 n = int(input("Ingrese la cantidad de elementos que desea que tengan los arreglos ")) #se ingresa por teclado la cantidad que el usuario quiera
 
@@ -42,7 +42,7 @@ print(arreglo1)
 print(arreglo2)
 print("El producto punto entre los dos arreglos es " +str(producto_punto))
 ```
-## 3.Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparezcan en dicho arreglo.
+## 3. Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparezcan en dicho arreglo.
 ```python
 # Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparezcan en dicho arreglo.
 n = int(input("Ingrese la cantidad de elementos que desea que tenga el arreglo ")) #se ingresa por teclado la cantidad que el usuario quiera
