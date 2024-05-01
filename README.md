@@ -61,7 +61,7 @@ for i in range(len(arreglo)): #evaluar cada elemento si es igual a 0 o no
   if arreglo[i] != 0:
     numeros.append(arreglo[i]) #agregar al arreglo de numeros diferentes de 0
   else:
-    ceros.append(arreglo[i]) #agegar al arreglo de numeros iguales a 0
+    ceros.append(arreglo[i]) #agregar al arreglo de numeros iguales a 0
 
 arreglo = numeros + ceros #concatenar con los dos arreglos auxiliares
 print(arreglo)
